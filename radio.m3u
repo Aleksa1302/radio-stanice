@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-id="HitFM" tvg-name="Hit FM" tvg-logo="https://hitfm.rs/wp-content/uploads/2021/04/hit-fm-logo.png" group-title="Nacionalni",Hit FM
 http://streaming.hitfm.rs:8000/hit
 
+#EXTINF:-1 tvg-id="HitFM" tvg-name="Hit FM" tvg-logo="https://player.hitfm.rs/wp-content/uploads/sites/9/2019/07/HIT.jpg" group-title="Nacionalni",Hit FM
+https://streaming.tdiradio.com/hitbezreklama.mp3
+
 #EXTINF:-1 tvg-id="PlayRadio" tvg-name="Play Radio" tvg-logo="https://playradio.rs/assets/images/logo.png" group-title="Nacionalni",Play Radio
 http://stream.playradio.rs:8001/play.mp3
 

@@ -1,0 +1,55 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="HitFM" tvg-name="Hit FM" tvg-logo="https://hitfm.rs/wp-content/uploads/2021/04/hit-fm-logo.png" group-title="Nacionalni",Hit FM
+http://streaming.hitfm.rs:8000/hit
+
+#EXTINF:-1 tvg-id="PlayRadio" tvg-name="Play Radio" tvg-logo="https://playradio.rs/assets/images/logo.png" group-title="Nacionalni",Play Radio
+http://stream.playradio.rs:8001/play.mp3
+
+#EXTINF:-1 tvg-id="RadioS1" tvg-name="Radio S1" tvg-logo="https://www.radios.rs/templates/radios/images/logo-s1.png" group-title="Nacionalni",Radio S1
+http://stream.radios.rs:8000/s1
+
+#EXTINF:-1 tvg-id="RadioS2" tvg-name="Radio S2" tvg-logo="https://www.radios.rs/templates/radios/images/logo-s2.png" group-title="Nacionalni",Radio S2
+http://stream.radios.rs:8000/s2
+
+#EXTINF:-1 tvg-id="TDIRadio" tvg-name="TDI Radio" tvg-logo="https://www.tdiradio.com/wp-content/uploads/2021/04/tdi-logo.png" group-title="Pop-Rock-Dance",TDI Radio
+http://streaming.tdiradio.com:8000/tdi
+
+#EXTINF:-1 tvg-id="RadioKarolina" tvg-name="Radio Karolina" tvg-logo="https://karolina.rs/wp-content/uploads/2021/04/karolina-logo.png" group-title="Pop-Rock-Dance",Radio Karolina
+http://streaming.karolina.rs:8000/karolina
+
+#EXTINF:-1 tvg-id="NaxiRadio" tvg-name="Naxi Radio" tvg-logo="https://www.naxi.rs/images/naxi-logo.png" group-title="Pop-Rock-Dance",Naxi Radio
+http://streaming.naxi.me:8000/naxi128.mp3
+
+#EXTINF:-1 tvg-id="RockRadio" tvg-name="Rock Radio" tvg-logo="https://rockradio.rs/wp-content/uploads/2021/04/rock-logo.png" group-title="Pop-Rock-Dance",Rock Radio
+http://streaming.rockradio.rs:8000/rock
+
+#EXTINF:-1 tvg-id="RadioBravo" tvg-name="Bravo Radio" tvg-logo="https://www.radios.rs/templates/radios/images/logo-bravo.png" group-title="Pop-Rock-Dance",Radio Bravo (bivši r. indeks)
+http://stream.radios.rs:8000/bravo
+
+#EXTINF:-1 tvg-id="RadioLaguna" tvg-name="Radio Laguna" tvg-logo="https://laguna.rs/images/logo_skraceni.png" group-title="Pop-Rock-Dance",Radio Laguna Beograd
+http://streaming.laguna.rs:8000/laguna
+
+#EXTINF:-1 tvg-id="RadioNostalgija" tvg-name="Radio Nostalgija" tvg-logo="https://www.radionostalgija.rs/images/logo.png" group-title="Stari Hitovi",Radio Nostalgija Beograd
+http://188.40.62.20:8012/;stream.mp3
+
+#EXTINF:-1 tvg-id="RadioAsFM" tvg-name="Radio AS FM" tvg-logo="https://asfm.rs/wp-content/uploads/2021/11/logo-asfm-web.png" group-title="Vojvodina",Radio AS FM Novi Sad
+http://nasstream.com:8080/asfm
+
+#EXTINF:-1 tvg-id="Radio021" tvg-name="Radio 021" tvg-logo="https://www.021.rs/images/logo021.png" group-title="Vojvodina",Radio 021 Novi Sad
+http://stream.021.rs:8000/radio021
+
+#EXTINF:-1 tvg-id="RadioPink" tvg-name="Radio Pink" tvg-logo="https://pinkradio.rs/assets/images/logo.png" group-title="Narodna",Radio Pink
+http://stream.rtvpink.com:8000/pink
+
+#EXTINF:-1 tvg-id="RadioS3" tvg-name="Radio S3 Folk" tvg-logo="https://www.radios.rs/templates/radios/images/logo-s3.png" group-title="Narodna",Radio S3 Folk
+http://stream.radios.rs:8000/s3
+
+#EXTINF:-1 tvg-id="RadioBeograd1" tvg-name="Radio Beograd 1" tvg-logo="https://www.rts.rs/page/rts/ci/rts-predstavlja/story/3017/radio-beograd/radio-beograd-1.html/rts-rb1.png" group-title="RTS",Radio Beograd 1
+http://138.201.246.136:8000/rts_1
+
+#EXTINF:-1 tvg-id="RadioBeograd2" tvg-name="Radio Beograd 2" tvg-logo="https://www.rts.rs/page/rts/ci/rts-predstavlja/story/3017/radio-beograd/radio-beograd-1.html/rts-rb2.png" group-title="RTS",Radio Beograd 2
+http://138.201.246.136:8000/rts_2
+
+#EXTINF:-1 tvg-id="RadioBeograd202" tvg-name="Radio Beograd 202" tvg-logo="https://www.rts.rs/page/rts/ci/rts-predstavlja/story/3017/radio-beograd/radio-beograd-1.html/rts-202.png" group-title="RTS",Radio Beograd 202
+http://138.201.246.136:8000/rts_202
